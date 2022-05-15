@@ -1,4 +1,8 @@
-Hi 👋 My name is Eric Acosta ============================  Computer Science Undergraduate at Arizona State -----------------------------------------------  * 🌍  I'm based in Tempe, Arizona * ✉️  You can contact me at [acosta.eric505@gmail.com](mailto:acosta.eric505@gmail.com) * 🧠  I'm learning React JS
+Hi 👋 My name is Eric Acosta
+Computer Science Undergraduate at Arizona State
+* 🌍  I'm based in Tempe, Arizona 
+* ✉️  You can contact me at [acosta.eric505@gmail.com](mailto:acosta.eric505@gmail.com) 
+* 🧠  I'm learning React JS
 
 <a href="https://www.twitter.com/eric_acosta_jr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/eric_acosta_jr?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/ericacosta505" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ericacosta505?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
